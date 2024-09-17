@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Science Enthusiast | NLP | Python | Java & Spring Boot
+I'm a Data Science Enthusiast and experianced in NLP
 
 
 ## 🌐 Socials:
